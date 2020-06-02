@@ -1,5 +1,5 @@
 # Problem 1
-Pre-requisite: HTML
+You need to know: HTML
 
 ## Expected Output
 1. The heading row should be linear
